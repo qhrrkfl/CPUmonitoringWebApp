@@ -1,0 +1,39 @@
+﻿@page
+@model MonitorWebApp.Pages.MachinMonitor.IndexModel
+@{
+}
+<!-- <div style="width: 500px;"><canvas id="dimensions"></canvas></div><br/> -->
+<div style="width: 800px;"><canvas id="acquisitions"></canvas></div>
+
+@section Scripts
+    {
+
+    <script type="module" src="https://cdn.jsdelivr.net/npm/chart.js/dist/chart.min.js"></script>
+    <script type="module" src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.2.1/chart.umd.js" integrity="sha512-vCUbejtS+HcWYtDHRF2T5B0BKwVG/CLeuew5uT2AiX4SJ2Wff52+kfgONvtdATqkqQMC9Ye5K+Td0OTaz+P7cw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.2.1/chart.umd.min.js" integrity="sha512-GCiwmzA0bNGVsp1otzTJ4LWQT2jjGJENLGyLlerlzckNI30moi2EQT0AfRI7fLYYYDKR+7hnuh35r3y1uJzugw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+
+
+
+      <script src="/js/MonitorChart.js"></script>
+    <script>
+        websocket.onopen = (e) => {
+            console.log('open call');
+            websocket.send(MONITORHEADER + "|" + '@Model.ipport');
+        };
+
+
+
+
+       
+
+          
+
+
+    </script>
+
+    }

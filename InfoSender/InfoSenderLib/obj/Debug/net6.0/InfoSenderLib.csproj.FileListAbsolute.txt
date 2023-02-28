@@ -1,0 +1,12 @@
+C:\repository\CrudeEMSWebServer\InfoSender\InfoSenderLib\bin\Debug\net6.0\InfoSenderLib.deps.json
+C:\repository\CrudeEMSWebServer\InfoSender\InfoSenderLib\bin\Debug\net6.0\InfoSenderLib.dll
+C:\repository\CrudeEMSWebServer\InfoSender\InfoSenderLib\bin\Debug\net6.0\InfoSenderLib.pdb
+C:\repository\CrudeEMSWebServer\InfoSender\InfoSenderLib\obj\Debug\net6.0\InfoSenderLib.csproj.AssemblyReference.cache
+C:\repository\CrudeEMSWebServer\InfoSender\InfoSenderLib\obj\Debug\net6.0\InfoSenderLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\repository\CrudeEMSWebServer\InfoSender\InfoSenderLib\obj\Debug\net6.0\InfoSenderLib.AssemblyInfoInputs.cache
+C:\repository\CrudeEMSWebServer\InfoSender\InfoSenderLib\obj\Debug\net6.0\InfoSenderLib.AssemblyInfo.cs
+C:\repository\CrudeEMSWebServer\InfoSender\InfoSenderLib\obj\Debug\net6.0\InfoSenderLib.csproj.CoreCompileInputs.cache
+C:\repository\CrudeEMSWebServer\InfoSender\InfoSenderLib\obj\Debug\net6.0\InfoSenderLib.dll
+C:\repository\CrudeEMSWebServer\InfoSender\InfoSenderLib\obj\Debug\net6.0\refint\InfoSenderLib.dll
+C:\repository\CrudeEMSWebServer\InfoSender\InfoSenderLib\obj\Debug\net6.0\InfoSenderLib.pdb
+C:\repository\CrudeEMSWebServer\InfoSender\InfoSenderLib\obj\Debug\net6.0\ref\InfoSenderLib.dll

@@ -1,0 +1,15 @@
+C:\repository\CrudeEMSWebServer\InfoSender\MonitoringService\bin\Debug\net6.0\MonitoringService.deps.json
+C:\repository\CrudeEMSWebServer\InfoSender\MonitoringService\bin\Debug\net6.0\MonitoringService.dll
+C:\repository\CrudeEMSWebServer\InfoSender\MonitoringService\bin\Debug\net6.0\MonitoringService.pdb
+C:\repository\CrudeEMSWebServer\InfoSender\MonitoringService\bin\Debug\net6.0\InfoSenderLib.dll
+C:\repository\CrudeEMSWebServer\InfoSender\MonitoringService\bin\Debug\net6.0\InfoSenderLib.pdb
+C:\repository\CrudeEMSWebServer\InfoSender\MonitoringService\obj\Debug\net6.0\MonitoringService.csproj.AssemblyReference.cache
+C:\repository\CrudeEMSWebServer\InfoSender\MonitoringService\obj\Debug\net6.0\MonitoringService.GeneratedMSBuildEditorConfig.editorconfig
+C:\repository\CrudeEMSWebServer\InfoSender\MonitoringService\obj\Debug\net6.0\MonitoringService.AssemblyInfoInputs.cache
+C:\repository\CrudeEMSWebServer\InfoSender\MonitoringService\obj\Debug\net6.0\MonitoringService.AssemblyInfo.cs
+C:\repository\CrudeEMSWebServer\InfoSender\MonitoringService\obj\Debug\net6.0\MonitoringService.csproj.CoreCompileInputs.cache
+C:\repository\CrudeEMSWebServer\InfoSender\MonitoringService\obj\Debug\net6.0\MonitoringService.csproj.CopyComplete
+C:\repository\CrudeEMSWebServer\InfoSender\MonitoringService\obj\Debug\net6.0\MonitoringService.dll
+C:\repository\CrudeEMSWebServer\InfoSender\MonitoringService\obj\Debug\net6.0\refint\MonitoringService.dll
+C:\repository\CrudeEMSWebServer\InfoSender\MonitoringService\obj\Debug\net6.0\MonitoringService.pdb
+C:\repository\CrudeEMSWebServer\InfoSender\MonitoringService\obj\Debug\net6.0\ref\MonitoringService.dll
